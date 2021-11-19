@@ -446,7 +446,7 @@ int main()
 	//socketRobot2.join();
 	//socketRobot3.join();
 	//socketRobot4.join();
-
+	// TEST 3
 	console.join();
 
 
